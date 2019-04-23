@@ -1,2 +1,2 @@
-# Consensus-from-Trust
-Consensus from Trust programming task 
+# Consensus from Trust
+Consensus from Trus | Coursera cryptocurrency programming task
